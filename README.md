@@ -1,4 +1,8 @@
-# network_analysis_2021
+# Universidade Federal do Rio Grande do Norte
+## Instituto Metrópole Digital
+
+### IMD1155 - Network Analysis - 2021
+
 Repositório de resolução de exercícios da matéria IMD1155 - ANÁLISE DE REDES - T01 (2021.2)
 
 Repositório da disciplina: https://github.com/ivanovitchm/network_analysis_2021

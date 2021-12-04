@@ -1,5 +1,7 @@
 # network_analysis_2021
-Repositório da matéria IMD1155 - ANÁLISE DE REDES - T01 (2021.2)
+Repositório de resolução de exercícios da matéria IMD1155 - ANÁLISE DE REDES - T01 (2021.2)
+
+Repositório da disciplina: https://github.com/ivanovitchm/network_analysis_2021
 
 Utilizando jupyter e NetworkX para resolução dos exercícios
 

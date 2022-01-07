@@ -1,0 +1,1 @@
+Acess the network in the link: https://matheusriv.github.io/network_analysis_2021_exercises/Week_07_Network/network

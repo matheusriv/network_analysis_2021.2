@@ -13,5 +13,6 @@ The steps followed were:
 
 - Explore the network
 
+To analize the data, we used Gephi, wich is a graphic visualization software. Gephi implemets the Modularity Class, that automatically split the dataset into groups using the modularity value. The different groups were painted in different colors and the nodes were resized, based on their In Degree.
 
 Acess the network: https://matheusriv.github.io/network_analysis_2021_exercises/Week_07/network/

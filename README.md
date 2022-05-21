@@ -7,8 +7,8 @@ Repositório de resolução de exercícios da disciplina IMD1155 - ANÁLISE DE R
 
 Repositório da disciplina: https://github.com/ivanovitchm/network_analysis_2021
 
-Utilizando jupyter notebook e pacotes necessários para resolução dos exercícios
+Utilizando jupyter notebook e pacotes necessários para resolução dos exercícios.
 
 # Identificação Pessoal
-- Nome: Matheus Rivaldo da Silva
-- Email institucional: matheus.rivaldo.129@ufrn.edu.br
+- Autor: Matheus Silva
+- Email: matheus.r.slv@gmail.com
